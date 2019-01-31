@@ -1,0 +1,48 @@
+1
+00:00:09,180 --> 00:00:10,020
+Hello.
+
+2
+00:00:10,240 --> 00:00:11,380
+Where are you?
+
+3
+00:00:12,480 --> 00:00:13,700
+On the way home.
+
+4
+00:00:13,940 --> 00:00:17,340
+Oh, that's very good, because I need to speak to you urgently.
+
+5
+00:00:17,340 --> 00:00:18,520
+See you there.
+
+6
+00:00:26,500 --> 00:00:27,620
+Eva knows.
+
+7
+00:00:28,140 --> 00:00:29,160
+What?
+
+8
+00:00:36,900 --> 00:00:38,460
+Let's go home.
+
+9
+00:00:39,720 --> 00:00:41,700
+You don't know what happened with Valentina.
+
+10
+00:00:41,940 --> 00:00:42,980
+What happened?
+
+11
+00:00:43,140 --> 00:00:44,720
+I'll tell you on the way there.
+
+12
+00:00:44,720 --> 00:00:00,000
+But you're not going to believe it.
+
