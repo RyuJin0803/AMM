@@ -1,48 +1,48 @@
 1
 00:00:09,180 --> 00:00:10,020
-Hello.
+Chào.
 
 2
 00:00:10,240 --> 00:00:11,380
-Where are you?
+Em đang ở đâu thế?
 
 3
 00:00:12,480 --> 00:00:13,700
-On the way home.
+Trên đường về nhà.
 
 4
 00:00:13,940 --> 00:00:17,340
-Oh, that's very good, because I need to speak to you urgently.
+Oh, tốt lắm, bởi vì chị cần phải nói chuyện với em ngay lập tức.
 
 5
 00:00:17,340 --> 00:00:18,520
-See you there.
+Gặp em sau.
 
 6
 00:00:26,500 --> 00:00:27,620
-Eva knows.
+Eva biết rồi.
 
 7
 00:00:28,140 --> 00:00:29,160
-What?
+Gì cơ?
 
 8
 00:00:36,900 --> 00:00:38,460
-Let's go home.
+Về nhà thôi.
 
 9
 00:00:39,720 --> 00:00:41,700
-You don't know what happened with Valentina.
+Anh không biết chuyện xảy ra với Valentina đâu.
 
 10
 00:00:41,940 --> 00:00:42,980
-What happened?
+Chuyện gì?
 
 11
 00:00:43,140 --> 00:00:44,720
-I'll tell you on the way there.
+Em sẽ kể anh nghe trên đường về nhà.
 
 12
 00:00:44,720 --> 00:00:00,000
-But you're not going to believe it.
+Nhưng anh sẽ không tin được đâu.
 
