@@ -1,128 +1,128 @@
 1
 00:00:00,000 --> 00:00:02,060
-Look at all the things Val borrowed me.
+Nhìn mấy thứ mà Val cho con mượn này.
 
 2
 00:00:03,260 --> 00:00:06,020
-They're beautiful, she's got really good taste, hasn't she?
+Chúng thật đẹp, cậu ấy rất có gu đấy chứ, phải không?
 
 3
 00:00:06,340 --> 00:00:07,360
-Look at this.
+Nhìn này.
 
 4
 00:00:11,080 --> 00:00:11,920
-Mom?
+Mẹ?
 
 5
 00:00:15,640 --> 00:00:16,860
-Mom, what's up?
+Mẹ, chuyện gì thế?
 
 6
 00:00:18,460 --> 00:00:19,660
-You're very odd.
+Mẹ trông rất lạ đó.
 
 7
 00:00:20,780 --> 00:00:23,860
-What happened? You said you liked this place.
+Chuyện gì thế? Mẹ đã nói là mẹ thích nơi này mà.
 
 8
 00:00:26,300 --> 00:00:27,620
-It's not that, honey.
+Không phải vậy, con yêu.
 
 9
 00:00:30,480 --> 00:00:33,100
-It's just that lately I've been thinking a lot about Chino.
+Chỉ là dạo gần đây mẹ nghĩ rất nhiều về Chino.
 
 10
 00:00:34,000 --> 00:00:34,940
-No.
+Không.
 
 11
 00:00:35,000 --> 00:00:36,660
-Come on, mom! No.
+Thôi nào, mẹ! Không.
 
 12
 00:00:37,520 --> 00:00:40,080
-We had agreed on that this was in the past, why are you--?
+Chúng ta đã đồng ý rằng đây là chuyện của quá khứ mà, sao mẹ lại--?
 
 13
 00:00:41,680 --> 00:00:44,680
-And even after all the things he's done to you. I just don't understand you!
+Và thậm chí sau tất cả những gì ông ta đã gây ra cho mẹ. Con thật không hiểu được mẹ!
 
 14
 00:00:44,800 --> 00:00:45,720
-Honestly.
+Thật đấy.
 
 15
 00:00:47,580 --> 00:00:48,520
-Well, just--
+Well, chỉ là--
 
 16
 00:00:49,500 --> 00:00:51,580
-Forget all the grudges and forgive him.
+Quên hết những hận thù đi và tha thứ cho ông ấy.
 
 17
 00:00:51,760 --> 00:00:53,560
-- No, but--
-- Don't hate him.
+- Không, nhưng--
+- Đừng ghét ông ấy.
 
 18
 00:00:54,620 --> 00:00:56,360
-What the heck is bugging you?
+Chuyện quái gì đang làm phiền mẹ vậy?
 
 19
 00:00:57,300 --> 00:00:59,400
-Why are you a mess because of Chino again?
+Sao mẹ lại rối tung lên hết vì Chino thế?
 
 20
 00:00:59,680 --> 00:01:00,760
-Don't mind me.
+Để kệ mẹ đi.
 
 21
 00:01:02,240 --> 00:01:04,500
-I'm too sensitive because of all the things that's happened.
+Mẹ rất nhạy cảm vì mọi thứ đã xảy ra.
 
 22
 00:01:05,800 --> 00:01:11,840
-[Jacobo speaking in other languages]
+[Jacobo nói các thứ tiếng khác nhau]
 
 23
 00:01:13,300 --> 00:01:15,140
-So, can Chino speak three other languages?
+Vậy, Chino có thể nói ba thứ tiếng khác nhau được không?
 
 24
 00:01:15,300 --> 00:01:18,600
-Can he talk about finances, about numbers? Think a little, please!
+Anh ta có nói được về tài chính và những con số không? Hãy nghĩ một chút đi, làm ơn!
 
 25
 00:01:19,620 --> 00:01:20,860
-I don't understand.
+Tôi không hiểu.
 
 26
 00:01:21,560 --> 00:01:22,940
-And you think I do?
+Và cô nghĩ là tôi hiểu sao?
 
 27
 00:01:24,140 --> 00:01:27,900
-I don't understand how I came back to life after being dead either.
+Tôi cũng không hiểu làm thế nào mà tôi sống trở lại sau khi đã chết được.
 
 28
 00:01:32,760 --> 00:01:34,540
-Let's suppose you're not Chino.
+Hãy coi như là anh không phải là Chino.
 
 29
 00:01:35,780 --> 00:01:38,160
-- Where is he?
-- I have no idea. And I know it's too weird for you.
+- Thì anh ta đang ở đâu?
+- Tôi chẳng biết. Và tôi biết là nó rất kì quặc với cô.
 
 30
 00:01:38,160 --> 00:01:41,640
-Yes, I know it's weird to think that I'm in your husband's body.
+Đúng, tôi biết là nó rất kì khi nghĩ rằng tôi đang trong cơ thể của chồng cô.
 
 31
 00:01:41,640 --> 00:01:45,760
-That I'm talking from someone else's soul. It is just as weird to me!
+Rằng tôi đang nói chuyện bằng thân xác của một người khác. Nó cũng kì lạ với tôi thôi!
 
 32
 00:01:49,400 --> 00:01:50,320
@@ -130,9 +130,9 @@ Hey.
 
 33
 00:01:50,900 --> 00:01:51,800
-Mom.
+Mẹ à.
 
 34
 00:01:53,340 --> 00:00:00,000
-I'm sorry.
+Con xin lỗi.
 
