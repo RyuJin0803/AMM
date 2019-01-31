@@ -1,94 +1,203 @@
 1
-00:00:04,000 --> 00:00:05,000
-Jacobo,
+00:00:00,060 --> 00:00:03,840
+I'm sorry, Jacobo. I feel like I'm always crying.
 
 2
-00:00:05,540 --> 00:00:07,320
-Are you-- Are you all right?
+00:00:06,280 --> 00:00:10,180
+I swear my life is not like this. Well, it didn't use to be, but lately...
 
 3
-00:00:10,120 --> 00:00:17,120
-I'm always so involved with my dramas and my weird world that I end up forgetting about other people.
+00:00:17,080 --> 00:00:21,240
+Perhaps we are all going through the same thing today.
 
 4
-00:00:17,540 --> 00:00:21,260
-Are you all right? You can tell me anything, Jacobo, okay?
+00:00:27,620 --> 00:00:28,680
+It's just that--
 
 5
-00:00:24,940 --> 00:00:26,440
-What is it?
+00:00:29,600 --> 00:00:32,920
+I don't want to hurt anyone, I swear it, I don't--
 
 6
-00:00:28,440 --> 00:00:29,620
-Nothing.
+00:00:34,900 --> 00:00:35,760
+Vale.
 
 7
-00:00:30,580 --> 00:00:31,580
-Nothing. I--
+00:00:36,560 --> 00:00:37,360
+Hey.
 
 8
-00:00:33,040 --> 00:00:34,460
-I appreciate it, but--
+00:00:39,600 --> 00:00:41,240
+Can I give you an advice?
 
 9
-00:00:36,140 --> 00:00:40,060
-I don't even know I'm like this. I'm okay, but thank you anyway.
+00:00:44,200 --> 00:00:45,580
+Try to breathe.
 
 10
-00:00:42,000 --> 00:00:44,900
-Thank you for worrying.
+00:00:46,900 --> 00:00:48,860
+And to take your time.
 
 11
-00:00:51,400 --> 00:00:52,400
-Jacobo,
+00:00:51,720 --> 00:00:54,680
+And try to think about what it is that's really happening to you.
 
 12
-00:00:53,860 --> 00:00:55,560
-I don't know what's up, but
+00:00:55,480 --> 00:00:57,360
+And do the right thing.
 
 13
-00:00:59,860 --> 00:01:01,460
-I'm glad you're here.
+00:00:59,320 --> 00:01:02,760
+It's just that it's very hard to know what is the right thing, because--
 
 14
-00:01:02,820 --> 00:01:03,820
-Thank you.
+00:01:03,200 --> 00:01:05,980
+The right thing to me or the right thing to the others?
 
 15
-00:01:05,820 --> 00:01:07,580
-Thank you. Honestly, thank you.
+00:01:05,980 --> 00:01:09,960
+- Because it seems like they're not the same, you know?
+- The only thing I ask you is to try to--
 
 16
-00:01:13,060 --> 00:01:14,040
-The driver?!
+00:01:11,220 --> 00:01:13,200
+Act with honesty.
 
 17
-00:01:16,620 --> 00:01:17,620
-All this?
+00:01:13,880 --> 00:01:17,420
+I think that what matters is that you be honest with him and with yourself.
 
 18
-00:01:18,740 --> 00:01:21,960
+00:01:19,840 --> 00:01:21,600
+You say that because of Lucho?
+
+19
+00:01:22,520 --> 00:01:24,120
+I'll talk to you as if I--
+
+20
+00:01:27,440 --> 00:01:29,320
+As if I was-- Well--
+
+21
+00:01:29,320 --> 00:01:31,240
+As a man, and if I was your--
+
+22
+00:01:32,200 --> 00:01:33,780
+As if you were my daughter.
+
+23
+00:01:36,400 --> 00:01:38,080
+Don't break his heart.
+
+24
+00:01:40,080 --> 00:01:43,740
+I mean, try to-- Try to understand that it's a human being we're talking about, a person.
+
+25
+00:01:43,740 --> 00:01:46,420
+And that maybe he's in love, just like you are.
+
+26
+00:01:47,040 --> 00:01:49,580
+So the only thing I ask you is to understand him
+
+27
+00:01:50,460 --> 00:01:53,520
+And to really be honest, because there's also a person on the other side.
+
+28
+00:01:58,100 --> 00:01:59,100
+Jacobo,
+
+29
+00:01:59,440 --> 00:02:01,360
+Are you-- Are you all right?
+
+30
+00:02:04,160 --> 00:02:10,880
+I'm always so involved with my dramas and my weird world that I end up forgetting about other people.
+
+31
+00:02:11,700 --> 00:02:15,240
+Are you all right? You can tell me anything, Jacobo, okay?
+
+32
+00:02:18,740 --> 00:02:20,140
+What is it?
+
+33
+00:02:22,260 --> 00:02:23,260
+Nothing.
+
+34
+00:02:24,280 --> 00:02:25,580
+Nothing. I--
+
+35
+00:02:26,700 --> 00:02:28,340
+I appreciate it, but--
+
+36
+00:02:29,980 --> 00:02:33,560
+I don't even know I'm like this. I'm okay, but thank you anyway.
+
+37
+00:02:35,540 --> 00:02:37,300
+Thank you for worrying.
+
+38
+00:02:45,140 --> 00:02:46,140
+Jacobo,
+
+39
+00:02:47,780 --> 00:02:49,560
+I don't know what's up, but
+
+40
+00:02:53,480 --> 00:02:55,460
+I'm glad you're here.
+
+41
+00:02:56,560 --> 00:02:57,760
+Thank you.
+
+42
+00:02:59,560 --> 00:03:01,740
+Thank you. Honestly, thank you.
+
+43
+00:03:06,820 --> 00:03:08,200
+The driver?!
+
+44
+00:03:10,420 --> 00:03:11,660
+All this?
+
+45
+00:03:12,540 --> 00:03:15,460
 - All this because of the damn driver?
 - That's enough.
 
-19
-00:01:22,480 --> 00:01:23,620
+46
+00:03:16,420 --> 00:03:17,580
 I made you a question.
 
-20
-00:01:23,680 --> 00:01:27,220
+47
+00:03:17,600 --> 00:03:20,900
 - That's who you're cheating on me with?!
 - Shut up now! Now!
 
-21
-00:01:27,300 --> 00:01:29,360
+48
+00:03:21,160 --> 00:03:23,320
 What is going on here?
 
-22
-00:01:30,380 --> 00:01:30,960
+49
+00:03:24,040 --> 00:03:24,980
 Tell her.
 
-23
-00:01:31,140 --> 00:00:00,000
+50
+00:03:25,060 --> 00:00:00,000
 Come on, tell her. Or I'll do it!
 
