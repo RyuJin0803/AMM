@@ -1,42 +1,42 @@
 1
 00:00:00,220 --> 00:00:03,420
-What's going on, honey? You look even more crushed than last night.
+Chuyện gì vậy con? Con trông còn suy sụp hơn cả tối hôm qua nữa đó.
 
 2
 00:00:06,640 --> 00:00:08,720
-Come on, Juli. Tell me.
+Thôi nào, Juli. Kể mẹ nghe đi.
 
 3
 00:00:09,900 --> 00:00:11,320
-You're not going to say anything?
+Con không định nói gì sao?
 
 4
 00:00:11,980 --> 00:00:13,840
-We used to tell each other everything.
+Chúng ta đã từng nói mọi chuyện với nhau cơ mà.
 
 5
 00:00:13,840 --> 00:00:15,120
-Mom, leave it.
+Mẹ à, bỏ đi.
 
 6
 00:00:16,100 --> 00:00:17,340
-I don't want to talk.
+Con không muốn nói chuyện.
 
 7
 00:00:18,760 --> 00:00:21,560
-Okay, but I just want to know what's going on.
+Okay, nhưng mẹ chỉ muốn biết chuyện gì đang xảy ra thôi.
 
 8
 00:00:23,180 --> 00:00:25,060
-You have a boyfriend and you had a fight with him?
+Con có bạn trai và bọn con đang cãi nhau sao?
 
 9
 00:00:26,160 --> 00:00:27,500
-I don't have a boyfriend.
+Con không có bạn trai gì hết.
 
 10
 00:00:29,080 --> 00:00:30,640
-Did you fight with your friend?
+Con cãi nhau với bạn à?
 
 11
 00:00:32,980 --> 00:00:33,920
@@ -44,55 +44,55 @@ Mhmm.
 
 12
 00:00:34,120 --> 00:00:35,620
-I knew it.
+Mẹ biết mà.
 
 13
 00:00:36,640 --> 00:00:38,400
-You had a fight with Valentina.
+Con cãi nhau với Valentina.
 
 14
 00:00:39,880 --> 00:00:41,760
-It was obvious it was going to happen.
+Rõ ràng là chuyện đó sẽ xảy ra mà.
 
 15
 00:00:42,180 --> 00:00:46,820
-That girl is... Beautiful, she's a good person, likeable, but--
+Cô bé đó... Rất xinh, con bé là một người tốt, dễ mến, nhưng--
 
 16
 00:00:47,120 --> 00:00:49,400
-She's from a different world, Juli.
+Con bé đến từ một thế giới khác, Juli à.
 
 17
 00:00:49,420 --> 00:00:52,700
-- You two are like water and oil--
-- And who asked for your opinion?
+- Hai đứa cứ như là nước và dầu vậy--
+- Và ai đi hỏi ý kiến của mẹ chứ?
 
 18
 00:00:53,600 --> 00:00:55,320
-Fine, but don't be like that.
+Ổn thôi, nhưng đừng có như thế.
 
 19
 00:00:55,320 --> 00:00:56,820
-No, I will be like that.
+Không, con sẽ không như thế.
 
 20
 00:00:57,020 --> 00:00:59,340
-I don't interfere in your thing with Panchito, do I?
+Con không can thiệp vào chuyện của mẹ và Panchito, phải không?
 
 21
 00:00:59,680 --> 00:01:03,100
-- I don't say that you take advantage of him because he has feelings for you.
-- That's not true!
+- Con không nói là mẹ lợi dụng chú ấy vì chú ấy thích mẹ.
+- Không phải như vậy!
 
 22
 00:01:03,100 --> 00:01:05,920
-It is true, because you only speak to him when you feel like it.
+Là như vậy đó, bởi vì mẹ chỉ nói chuyện với chú ấy khi mẹ muốn thôi.
 
 23
 00:01:06,020 --> 00:01:07,600
-Don't be rude! Do not speak to me like that!
+Đừng có láo như vậy! Đừng có nói với mẹ kiểu đó!
 
 24
 00:01:07,600 --> 00:00:00,000
-Well, don't stick you nose in my business and that's it! How about that?
+Well, vậy đừng can dự vào chuyện của con và thế thôi! Được rồi chứ?
 
