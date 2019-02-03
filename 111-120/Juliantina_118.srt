@@ -1,0 +1,24 @@
+1
+00:00:06,360 --> 00:00:08,080
+She acts as if nothing happened.
+
+2
+00:00:15,100 --> 00:00:16,660
+Stop. Stop it.
+
+3
+00:00:45,340 --> 00:00:49,780
+Hello, it's Valentina. I can't answer right now, but leave a message after the beep. Bye!
+
+4
+00:00:50,520 --> 00:00:51,840
+Val, what's up?
+
+5
+00:00:52,520 --> 00:00:56,060
+I'm worried, I haven't heard from you since you were acting really weird last night.
+
+6
+00:00:57,620 --> 00:00:00,000
+Please, call me.
+
