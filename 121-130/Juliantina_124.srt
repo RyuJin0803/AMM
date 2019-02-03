@@ -1,81 +1,81 @@
 1
 00:00:00,920 --> 00:00:02,780
 - Hey.
-- No, wait, wait. Come out here.
+- Không, chờ đã, chờ đã. Ra ngoài đây nào.
 
 2
 00:00:03,580 --> 00:00:04,480
-What?
+Sao?
 
 3
 00:00:05,560 --> 00:00:06,700
-What is it?
+Chuyện gì thế?
 
 4
 00:00:07,440 --> 00:00:09,520
-- What happened?
-- Your sister just left.
+- Chuyện gì đã xảy ra vậy?
+- Chị cậu mới rời đi.
 
 5
 00:00:09,640 --> 00:00:11,080
-- Eva?
-- Yes.
+- Eva sao?
+- Ừ.
 
 6
 00:00:11,780 --> 00:00:14,340
-Why? What-- I mean, what was Eva doing here here?
+Tại sao chứ? Cái gì-- Ý mình là, Eva làm gì ở đây thế?
 
 7
 00:00:15,240 --> 00:00:17,140
-- What do you think?
-- I don't know. I have no idea.
+- Cậu nghĩ sao ?
+- Mình không biết. Mình không biết gì hết.
 
 8
 00:00:17,140 --> 00:00:19,020
-To tell me to stay away from you, Val.
+Để nói với mình là tránh xa cậu ra, Val à.
 
 9
 00:00:19,240 --> 00:00:20,440
-Are you serious?
+Cậu nghiêm túc đấy hả?
 
 10
 00:00:20,900 --> 00:00:22,280
-I can't believe this.
+Mình không thể tin được điều này nữa.
 
 11
 00:00:22,420 --> 00:00:25,040
-Honestly, what is happening? Why--
+Thật đấy, chuyện gì đang xảy ra vậy? Tại sao--
 
 12
 00:00:25,580 --> 00:00:28,720
-- Why is everyone against us? I don't get it.
-- I don't know. Plus, you didn't see the way she talked to me.
+- Tại sao tất cả mọi người lại phản đối chúng ta vậy? Mình không hiểu.
+- Mình không biết. Hơn nữa, cậu không thấy cái cách mà chị ấy nói chuyện với mình đâu.
 
 13
 00:00:28,720 --> 00:00:29,940
-- She didn't even greet me.
-- But do something.
+- Chị ấy còn chẳng thèm chào mình.
+- Nhưng làm cái gì đó đi.
 
 14
 00:00:29,940 --> 00:00:32,240
 - Val!
-- Honestly, I-- This makes me very anxious.
+- Thật đấy, mình-- Việc này làm mình rất lo lắng.
 
 15
 00:00:32,240 --> 00:00:33,420
-Hold on. Wait a second.
+Chờ đã. Một giây thôi.
 
 16
 00:00:35,100 --> 00:00:36,040
-Hello.
+Chào mẹ.
 
 17
 00:00:36,540 --> 00:00:38,000
-Juliana, who knocked?
+Juliana, ai ngoài cửa vậy?
 
 18
 00:00:38,840 --> 00:00:41,400
-Valentina, mom, we're gonna hang out for a little while.
+Valentina, mẹ à, bọn con sẽ ra ngoài một tẹo.
 
 19
 00:00:43,140 --> 00:00:44,060
@@ -84,12 +84,12 @@ Okay.
 20
 00:00:45,700 --> 00:00:46,800
 - Val.
-- What?
+- Sao?
 
 21
 00:00:46,860 --> 00:00:49,560
-- We can't talk here.
-- Then let's go somewhere else.
+- Chúng ta không thể nói chuyện ở đây được.
+- Được rồi, vậy đi chỗ khác thôi.
 
 22
 00:00:53,000 --> 00:00:53,880
@@ -97,7 +97,7 @@ Val.
 
 23
 00:00:54,900 --> 00:00:56,240
-Val, wait for me?
+Val, chờ mình được không?
 
 24
 00:00:58,200 --> 00:00:59,420
@@ -105,55 +105,55 @@ Valentina!
 
 25
 00:00:59,720 --> 00:01:02,820
-I'm sorry, but Miss Juliana can't get into the car.
+Tôi xin lõi, nhưng cô Juliana không thể lên xe được.
 
 26
 00:01:02,900 --> 00:01:04,200
-- Excuse me?
-- What?
+- Xin lỗi gì cơ?
+- Sao cơ?
 
 27
 00:01:04,200 --> 00:01:06,180
-I have been given orders by Mrs. Eva.
+Tôi đã được ra lệnh bởi cô Eva.
 
 28
 00:01:06,180 --> 00:01:09,340
-None of the drivers can allow you to get into the family's cars.
+Không tài xế nào được phép cho cô lên xe của gia đình.
 
 29
 00:01:09,340 --> 00:01:11,440
-- Are you serious?
-- Or any of the properties.
+- Bác nói thật đó hả?
+- Hoặc bất cứ nơi nào.
 
 30
 00:01:11,440 --> 00:01:12,840
-- No way.
-- Of course.
+- Không thể thế được.
+- Chắc chắn rồi.
 
 31
 00:01:12,880 --> 00:01:14,160
-I mean... No.
+Ý tôi là... Không.
 
 32
 00:01:14,440 --> 00:01:17,660
-Look, Alirio, I've had a very bad day so I'm asking you to, please, get out of the way.
+Nghe này, Alirio, tôi đã có một ngày cực tồi tệ rồi nên tôi yêu cầu bác, làm ơn đấy, tránh ra đi.
 
 33
 00:01:17,660 --> 00:01:19,940
-- Please, Miss Valentina, please don't get me into trouble.
-- Alirio, what are you doing? Move.
+- Làm ơn, cô Valentina, làm ơn đừng gây rắc rối cho tôi.
+- Alirio, bác làm gì vậy? Tránh ra.
 
 34
 00:01:19,940 --> 00:01:21,600
-Hey, Valentina! Calm down!
+Này, Valentina! Bình tĩnh đi!
 
 35
 00:01:21,740 --> 00:01:23,880
-Don't yell at him. It's not his fault, anyway.
+Đừng mắng bác ấy nữa. Dù sao cũng không phải lỗi của bác ấy mà.
 
 36
 00:01:24,300 --> 00:01:25,680
-Come on. Let's go.
+Thôi nào. Đi thôi.
 
 37
 00:01:27,100 --> 00:00:00,000

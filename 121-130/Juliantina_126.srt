@@ -1,6 +1,6 @@
 1
 00:00:07,860 --> 00:00:10,740
-"You know what? Let's not look for each other anymore, okay?"
+"Cậu biết gì không? Hãy đừng tìm gặp nhau nữa, được chứ?"
 
 2
 00:00:12,200 --> 00:00:13,160
@@ -8,44 +8,44 @@ Alirio.
 
 3
 00:00:13,960 --> 00:00:15,700
-Take me to the office.
+Đưa tôi đến văn phòng.
 
 4
 00:00:27,760 --> 00:00:28,920
-Are you okay?
+Con ổn chứ?
 
 5
 00:00:29,680 --> 00:00:30,600
-Mom.
+Mẹ à.
 
 6
 00:00:31,620 --> 00:00:33,360
-Give me some space, please?
+Hãy để con ở một mình, xin mẹ đó?
 
 7
 00:00:34,340 --> 00:00:35,660
-I want to be alone.
+Con muốn được ở một mình.
 
 8
 00:00:37,920 --> 00:00:40,880
-"I'm willing to give up whatever I have to, I will fight anyone."
+"Mình sẵn sàng từ bỏ bất cứ thứ gì, mình sẽ đối đầu với bất cứ ai."
 
 9
 00:00:40,880 --> 00:00:44,500
-"- I don't care if it's my family, my friends, I don't care. So I can be with you.
-- No, Val. I'm not."
+"- Mình không quan tâm nếu đó là gia đình mình, bạn mình, mình không qua tâm. Để mình có thể ở bên cậu.
+- Không, Val. Mình thì không."
 
 10
 00:00:44,500 --> 00:00:45,300
-"- Oh, no?
-- No."
+"- Oh, Không sao?
+- Không."
 
 11
 00:00:45,300 --> 00:00:46,360
-"- No?
-- No!"
+"- Không sao?
+- Không!"
 
 12
 00:00:59,640 --> 00:00:00,000
-[SERGIO: How are you? I know things got complicated. Are you up for a cup of coffee and a hug?]
+[SERGIO: Cậu thế nào rồi? Mình biết là chuyện đã trở nên phức tạp hơn. Cậu có muốn một cốc cà phê và một cái ôm không?]
 

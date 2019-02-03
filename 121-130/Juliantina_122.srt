@@ -1,138 +1,138 @@
 1
 00:00:00,020 --> 00:00:03,340
-- Good morning, Alirio, how are you?
-- Good morning, how are you? I'm very good.
+- Chào buổi sáng, Alirio, bác thế nào?
+- Chào buổi sáng, cô khoẻ chứ? Tôi rất khoẻ.
 
 2
 00:00:03,460 --> 00:00:04,940
-I need to talk to you.
+Cháu cần nói vài chuyện với bác.
 
 3
 00:00:04,940 --> 00:00:06,920
-Oh, of course, how can I help you?
+Oh, tất nhiên rồi, tôi có thể giúp gì?
 
 4
 00:00:06,920 --> 00:00:10,340
-Look, I heard that you have been taking Valentina to see her friend Juliana.
+Nghe này, tôi có nghe là bác hay đưa Valentina đến gặp Juliana.
 
 5
 00:00:10,400 --> 00:00:11,680
-Yes, yes.
+Vâng, vâng.
 
 6
 00:00:11,800 --> 00:00:15,180
-- I need to ask you a few questions, let's go.
-- Of course, ma'am.
+- Cháu cần hỏi bác vài câu, đi thôi nào.
+- Tất nhiên rồi, thưa cô.
 
 7
 00:00:15,720 --> 00:00:17,100
-The first thing I need to know is...
+Điều đầu tiên cháu muốn biết là...
 
 8
 00:00:17,100 --> 00:00:19,560
-- Where are you going, honey?
-- To buy some medicines.
+- Con đi đâu vậy, con yêu?
+- Con đi mua thuốc thôi.
 
 9
 00:00:19,900 --> 00:00:20,980
-I'll be right back.
+Con sẽ về ngay.
 
 10
 00:00:21,440 --> 00:00:23,320
-- Well, I'm going to take a bath.
-- Okay.
+- Well, mẹ sẽ đi tắm.
+- Vâng.
 
 11
 00:00:23,760 --> 00:00:25,560
-- Don't take too long, okay?
-- No.
+- Đừng đi lâu quá, okay?
+- Không đâu.
 
 12
 00:00:27,780 --> 00:00:28,940
-It's fine.
+Ổn mà mẹ.
 
 13
 00:00:36,940 --> 00:00:38,760
 - Oh!
-- Hello.
+- Xin chào.
 
 14
 00:00:39,160 --> 00:00:40,360
-Juliana, right?
+Juliana, phải không?
 
 15
 00:00:41,440 --> 00:00:43,100
-Yes, how are you?
+Vâng, chị khoẻ không?
 
 16
 00:00:46,440 --> 00:00:47,780
-I'm impressed.
+Tôi ấn tượng đó.
 
 17
 00:00:48,440 --> 00:00:50,260
-First you seduce Valentina,
+Đầu tiên là cô quyến rũ Valentina,
 
 18
 00:00:50,980 --> 00:00:53,420
-Then you come to live here, in my Chivis' house.
+Sau đó cô đến sống ở đây, trong nhà Chivis của chúng tôi.
 
 19
 00:00:54,040 --> 00:00:55,660
-What do you want to do next, huh?
+Cô sẽ làm điều gì tiếp theo hả?
 
 20
 00:00:56,000 --> 00:00:57,620
-To live in my father's house?
+Đến sống trong nhà bố tôi à?
 
 21
 00:00:59,140 --> 00:00:59,960
-Look.
+Nhìn này.
 
 22
 00:01:00,280 --> 00:01:03,680
-I know Val is very naive and she sometimes lives in her wonderland world,
+Tôi biết là Val rất ngây thơ và con bé thỉnh thoảng sống trong cái xứ sở thần tiên của nó.
 
 23
 00:01:04,120 --> 00:01:05,220
-But not me.
+Nhưng tôi thì không.
 
 24
 00:01:05,680 --> 00:01:10,020
-I'm her big sister and I will always be here to protect her from people like you.
+Tôi là chị gái lớn của nó và tôi sẽ luôn ở đây để bảo vệ con bé khỏi những người như cô.
 
 25
 00:01:10,280 --> 00:01:13,680
-Look Eva, I don't have bad intentions. I don't want to take advantage.
+Nghe này Eva, em không có ý định xấu gì hết. Em không muốn lợi dụng cậu ấy.
 
 26
 00:01:14,420 --> 00:01:16,540
-What I feel for Valentina is real.
+Cảm xúc của em dành cho Valentina là thật.
 
 27
 00:01:17,360 --> 00:01:20,360
-Look, I have nothing against gays.
+Nghe này, tôi không có phản đối những người đồng tính.
 
 28
 00:01:20,660 --> 00:01:23,520
-Seriously. I'm in favor of sexual diversity.
+Thật đấy. Tôi rất ủng hộ sự đa dạng giới tính.
 
 29
 00:01:23,860 --> 00:01:26,640
-That they adopt kids, get married, have parades.
+Rằng họ nhận con nuôi, làm đám cưới, có diễu hành.
 
 30
 00:01:27,140 --> 00:01:29,140
-But all that away from my family.
+Nhưng tất cả thứ đó tránh xa gia đình tôi.
 
 31
 00:01:29,900 --> 00:01:32,880
-So I'm going to ask you to stay away from my sister,
+Nên là tôi sẽ nhờ cô tránh xa em gái tôi ra,
 
 32
 00:01:33,120 --> 00:01:34,940
-Before you ruin her life.
+Trước khi cô huỷ hoại cuộc đời con bé.
 
 33
 00:01:35,480 --> 00:00:00,000
-Or I will have to ruin yours.
+Hoặc là tôi sẽ phải huỷ hoại cuộc đời cô.
 
