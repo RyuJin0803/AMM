@@ -1,52 +1,52 @@
 1
 00:00:00,060 --> 00:00:02,820
-Honey, you haven't eaten anything.
+Con yêu, con chưa ăn gì hết cả đó.
 
 2
 00:00:03,220 --> 00:00:05,380
-Do you want me to make you something to eat?
+Con có muốn mẹ làm cái gì đấy cho con ăn không?
 
 3
 00:00:07,640 --> 00:00:09,320
-No, mom, thank you.
+Không, mẹ à, cảm ơn mẹ.
 
 4
 00:00:11,940 --> 00:00:14,080
-Can you close the door, please?
+Mẹ có thể đóng cửa lại được không?
 
 5
 00:00:43,780 --> 00:00:47,920
-Without a doubt, Leon Carvajal was an interesting man.
+Chẳ có gì để nghi ngờ được cả, Leon Carvajal đã là một người rất thú vị.
 
 6
 00:00:49,640 --> 00:00:50,640
-Right?
+Phải không?
 
 7
 00:00:51,520 --> 00:00:52,640
-Yes.
+Vâng.
 
 8
 00:01:01,880 --> 00:01:03,220
-What's up, Val?
+Chuyện gì thế, Val?
 
 9
 00:01:04,040 --> 00:01:05,940
-- What is that? Huh?
-- What?
+- Cái gì vậy? Huh?
+- Gì thế?
 
 10
 00:01:05,940 --> 00:01:07,540
-- Give it to me.
-- Nothing, I have nothing with me.
+- Đưa nó cho tao.
+- Không có gì cả, tôi không có cầm cái gì hết.
 
 11
 00:01:07,540 --> 00:01:08,640
-Give it to me!
+Đưa nó cho tao!
 
 12
 00:01:08,940 --> 00:01:12,580
-I'm sorry. I swear, I didn't even know I had it. Forgive me.
+Tôi xin lỗi. Tôi thề, tôi còn không biết là tôi có nó. Tha cho tôi.
 
 13
 00:01:13,140 --> 00:01:14,200
@@ -54,40 +54,40 @@ Val?
 
 14
 00:01:14,560 --> 00:01:16,160
-- It was an accident.
-- An accident?
+- Đó là một tai nạn.
+- Tai nạn sao?
 
 15
 00:01:16,160 --> 00:01:18,060
 - Uh-huh.
-- An accident like this, that could blow up your head?
+- Tai nạn như thế này, có thể làm nổ sọ mày đấy?
 
 16
 00:01:18,060 --> 00:01:19,760
-- No, no, please!
-- Is that what you want?
+- Không, không, làm ơn đi!
+- Đó có phải điều mày muốn không?
 
 17
 00:01:21,220 --> 00:01:22,740
-Val, what's going on? Who is this?
+Val, có chuyện gì vậy? Ai thế?
 
 18
 00:01:22,740 --> 00:01:24,160
-Val, what's going on?
+Val, có chuyện gì thế?
 
 19
 00:01:26,860 --> 00:01:28,200
-Don't try anything.
+Đừng có mà làm cái gì cả.
 
 20
 00:01:28,640 --> 00:01:29,800
-Stay there.
+Ngồi yên đó đi.
 
 21
 00:01:34,200 --> 00:01:35,540
-Val, what's happening?
+Val, chuyện gì đang xảy ra vậy?
 
 22
 00:01:37,740 --> 00:00:00,000
-You want this? Huh?
+Mày muốn cái này hả? Huh?
 
