@@ -1,31 +1,31 @@
 1
 00:00:15,920 --> 00:00:18,080
-- Hello?
-- Honey, what happened?
+- Alo?
+- Con gái, chuyện gì vậy?
 
 2
 00:00:18,360 --> 00:00:20,740
-I've been very worried because of the way you left.
+Mẹ đã rất lo vì thấy con rời đi.
 
 3
 00:00:20,740 --> 00:00:24,040
-No. No, mom, relax. Don't worry, everything is fine, okay?
+Không. Không, mẹ à, bình tĩnh đi. Đừng lo, mọi chuyện đều ổn cả, được chứ?
 
 4
 00:00:24,280 --> 00:00:26,160
-I'm at Valentina's house and, um...
+Con đang ở nhà Valentina và, ừm...
 
 5
 00:00:26,420 --> 00:00:27,680
-Later I'll--
+Lát sau con sẽ--
 
 6
 00:00:29,380 --> 00:00:32,460
-Mom, I'll call later, I'll call later. I can't talk right now, okay?
+Mẹ à, con sẽ gọi lại sau, con sẽ gọi lại sau. Con không thể nói chuyện bây giờ được, được chứ?
 
 7
 00:00:32,840 --> 00:00:34,740
-Yes. No, nothing, bye. Bye, bye.
+Vâng. Không, không có gì cả, chào mẹ.
 
 8
 00:00:41,920 --> 00:00:43,240
@@ -33,33 +33,33 @@ Chino!
 
 9
 00:00:49,900 --> 00:00:51,000
-No.
+Không.
 
 10
 00:00:52,340 --> 00:00:54,740
-No, no, no, no. Valentina.
+Không, không, không, không. Valentina.
 
 11
 00:00:56,140 --> 00:01:00,100
-Make way for the body that just went out. It's of Servando Armenta, the Cartel boss.
+Tránh đường để mang xác qua đi. Là xác của Servando Armenta, chủ băng Cartel.
 
 12
 00:01:00,260 --> 00:01:02,340
-The Carvajal women are okay.
+Mấy người phụ nữ nhà Carvajal vẫn ổn.
 
 13
 00:01:02,340 --> 00:01:05,960
-All the injured are Cartel members and one employee of the house.
+Tất cả những người bị thương đều là người của băng đảng Cartel và một người làm của nhà họ.
 
 14
 00:01:06,240 --> 00:01:07,180
-Copied.
+Đã rõ.
 
 15
 00:01:07,320 --> 00:01:09,120
-Miss, step back, please.
+Thưa cô, làm ơn lùi lại đi.
 
 16
 00:01:09,320 --> 00:00:00,000
-Yeah, I'm going. Fine.
+Được rồi, được rồi.
 
